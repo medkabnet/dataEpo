@@ -12,7 +12,8 @@
       "likes": 18,
       "duration": "15 min",
       "language": "fr",
-      "status": "published"
+      "status": "published",
+        "service":"CHU Fès"
     },
     {
       "id": 2,
@@ -27,7 +28,9 @@
       "likes": 23,
       "duration": "20 min",
       "language": "fr",
-      "status": "published"
+      "status": "published",
+        
+        "service":"CHU Casablanca"
     },
     {
       "id": 3,
@@ -42,7 +45,9 @@
       "likes": 31,
       "duration": "25 min",
       "language": "en",
-      "status": "published"
+      "status": "published",
+        
+        "service":"CHU Rabat"
     },
     {
       "id": 4,
@@ -58,6 +63,9 @@
       "duration": "18 min",
       "language": "fr",
       "status": "published"
+
+        "service":"CHU Oujda"
+
     },
     {
       "id": 5,
@@ -72,6 +80,8 @@
       "likes": 42,
       "duration": "30 min",
       "language": "fr",
-      "status": "published"
+      "status": "published",
+        
+        "service":"CHU Tanger"
     }
   ]
