@@ -1,5 +1,5 @@
 [
 {"id":1, "ticket_name":"Ticket Déjeuner" , "is_active":0 , "dateTicket":"2023-09-25"},
 {"id":2, "ticket_name":"Ticket Déjeuner" , "is_active":1 , "dateTicket":"2023-09-26"},
-{"id":3, "ticket_name":"Ticket Dinner de Gala" , "is_active":1 , "dateTicket":"2023-09-26"},
+{"id":3, "ticket_name":"Ticket Dinner de Gala" , "is_active":1 , "dateTicket":"2023-09-26"}
 ]
