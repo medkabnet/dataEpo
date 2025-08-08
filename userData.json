@@ -1,5 +1,5 @@
 {
-  id:123,
-  f_name: "Mohammed",
-  l_name : "KABBAJ"
+  "id":123,
+  "f_name": "Mohammed",
+  "l_name" : "KABBAJ"
 }
