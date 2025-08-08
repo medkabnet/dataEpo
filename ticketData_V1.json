@@ -1,5 +1,5 @@
 [
-{"id":1, "ticket_name":"Ticket Déjeuner" , "is_active":0 , "dateTicket":"2023-09-25"},
-{"id":2, "ticket_name":"Ticket Déjeuner" , "is_active":1 , "dateTicket":"2023-09-26"},
-{"id":3, "ticket_name":"Ticket Dinner de Gala" , "is_active":1 , "dateTicket":"2023-09-26"}
+{"id":1, "ticket_name":"Ticket Déjeuner" , "is_active":0 , "dateTicket":"2023-09-25" , "ticket_description":"Déjeuner dans le restaurant à 12H30"},
+{"id":2, "ticket_name":"Ticket Déjeuner" , "is_active":1 , "dateTicket":"2023-09-26" , "ticket_description":"Déjeuner dans le restaurant à 12H30"},
+{"id":3, "ticket_name":"Ticket Dinner de Gala" , "is_active":1 , "dateTicket":"2023-09-26" , "ticket_description":"Dinner de Gala dans la salle Principale à 20h"}
 ]
